@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 我正在学习vuejs和uniapp
 - 💬 微信: a29085858
 
-#### 我的技术栈 :
+#### 我的技术栈 ✨
 <p>
 <img align="" style="height:20" src="https://img.shields.io/badge/HTML-10%25-red" />
 <img align="" height="20" src="https://img.shields.io/badge/CSS-20%25-blueviolet" />
