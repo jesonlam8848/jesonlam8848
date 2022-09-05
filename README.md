@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🐧 前端攻城狮
 - 😄 本人曾在百度, 阿里巴巴, 喜马拉雅, bilibili , 腾讯 , 字节跳动 , 暴雪, 优酷, 爱奇艺 , 芒果 , 网易云 注册过会员 ( doge )
 - 🌱 我正在学习 Vue 和 uni-app
@@ -19,8 +20,8 @@ Here are some ideas to get you started:
 
 ### 我的技术栈 ✨
 <p>
-<img align="" style="height:20" src="https://img.shields.io/badge/HTML-10%25-red" />
-<img align="" height="20" src="https://img.shields.io/badge/CSS-20%25-blueviolet" />
-<img align="" height="20" src="https://img.shields.io/badge/JavaScript-35%25-yellow" />
-<img align="" height="20" src="https://img.shields.io/badge/Vue-35%25-brightgreen" />
+  <img align="" style="height:20" src="https://img.shields.io/badge/HTML-10%25-red" />
+  <img align="" height="20" src="https://img.shields.io/badge/CSS-20%25-blueviolet" />
+  <img align="" height="20" src="https://img.shields.io/badge/JavaScript-35%25-yellow" />
+  <img align="" height="20" src="https://img.shields.io/badge/Vue-35%25-brightgreen" />
 </p>
