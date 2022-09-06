@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+### 目前斩获 offer 🐟 3个
 -->
 
 - 🐧 前端攻城狮
@@ -25,5 +26,3 @@ Here are some ideas to get you started:
   <img align="" height="20" src="https://img.shields.io/badge/JavaScript-35%25-yellow" />
   <img align="" height="20" src="https://img.shields.io/badge/Vue-35%25-brightgreen" />
 </p>
-
-### 目前斩获 offer 🐟 3个
