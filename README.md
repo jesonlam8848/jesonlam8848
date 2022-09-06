@@ -9,11 +9,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
-### 目前斩获 offer 🐟 3个
 -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Hellow!">
 
-- 🐧 前端攻城狮实习
+- 🐧 前端主力(助理)攻城狮
 - 😄 本人曾在百度, 阿里巴巴, 喜马拉雅, bilibili , 腾讯 , 字节跳动 , 暴雪, 优酷, 爱奇艺 , 芒果 , 网易云 注册过会员 ( doge )
 - 🌱 我正在学习 Vue 和 uni-app
 - 💬 微信: a29085858
