@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Hellow!">-->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Hellow!">
 
 - 🐧 前端主力(助理)攻城狮
@@ -17,6 +18,7 @@ Here are some ideas to get you started:
 - 🌱 我正在学习 Vue 和 uni-app
 - 💬 微信: a29085858
 
+<!--<img height=180px align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" title="Do what you like, and do it best!">-->
 <img height=180px align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" title="Do what you like, and do it best!">
 
 ### 我的技术栈 ✨
