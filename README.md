@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 微信: a29085858
 
 <!--<img height=180px align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" title="Do what you like, and do it best!">-->
-<img height=180px align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" title="Do what you like, and do it best!">
+<img height=180px align="right" alt="GIF" src="https://user-images.githubusercontent.com/110996333/188844519-d4b6cba9-9497-41e4-a182-388b5bb482b5.gif" width="300" title="Do what you like, and do it best!">
 
 ### 我的技术栈 ✨
 <p>
