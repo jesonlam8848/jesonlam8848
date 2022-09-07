@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Hellow!">-->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Hellow!">
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/110996333/188844122-e3e331da-250d-4da5-b6a7-63758c49c32a.gif" width="84" title="Hellow!">
 
 - 🐧 前端主力(助理)攻城狮
 - 😄 本人曾在百度, 阿里巴巴, 喜马拉雅, bilibili , 腾讯 , 字节跳动 , 暴雪, 优酷, 爱奇艺 , 芒果 , 网易云 注册过会员 ( doge )
