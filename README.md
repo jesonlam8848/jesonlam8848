@@ -1,4 +1,4 @@
-## 目前正在参与的开源项目: 👯 https://github.com/nginx-ops/nginx-ops-ui
+## 目前正在参与的开源项目: 👯 https://github.com/nginx-ops
 
 ### Hi there 👋
 
