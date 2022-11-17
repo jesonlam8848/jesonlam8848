@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🐧 前端主力(助理)攻城狮
 - 😄 本人曾在百度, 阿里巴巴, 喜马拉雅, bilibili , 腾讯 , 字节跳动 , 暴雪, 优酷, 爱奇艺 , 芒果 , 网易云 注册过会员 ( doge )
-- 🌱 我正在学习 Vue 和 uni-app
+- 🌱 我正在学习 React
 - 💬 微信: jeson_lam
 
 <!--<img height=180px align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" title="Do what you like, and do it best!">-->
