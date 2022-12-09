@@ -1,4 +1,4 @@
-### <strong>现在不用 Gitee 了<strong/> 👋
+## <strong>现在不用 Gitee 了<strong/> 👋
 
 <!--
 **jesonlam8848/jesonlam8848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
