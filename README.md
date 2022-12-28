@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Hellow!">-->
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif" width="84" title="Hellow!">
 
-- 🐧 前端主力(助理)攻城狮
+- 🐧 前端主力( 助理 )攻城狮
 - 😄 本人曾在百度, 阿里巴巴, 喜马拉雅, bilibili , 腾讯 , 字节跳动 , 暴雪, 优酷, 爱奇艺 , 芒果 , 网易云 注册过会员 ( doge )
 - 🌱 我正在学 ...
 - 💬 原神uid: 100220863
