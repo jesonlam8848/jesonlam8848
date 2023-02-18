@@ -1,5 +1,3 @@
-## <strong>现在不用 Gitee 了<strong/> 👋
-
 <!--
 **jesonlam8848/jesonlam8848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,17 +9,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 🆕🐞📝🗑🐧
 -->
-<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Hellow!">-->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif" width="84" title="Hellow!">
-
+## <strong>现在不用 Gitee 了<strong/> 👋
+  
 - 🐟 前端主力( 助理 )攻城狮
-- 😄 本人曾在百度, 阿里巴巴, 喜马拉雅, bilibili , 腾讯 , 字节跳动 , 暴雪, 优酷, 爱奇艺 , 芒果 , 网易云 注册过会员 ( doge )
+- 🐞 规则长方体固体物质空间移动工程师 
+- 😄 本人曾在百度, 阿里巴巴, 喜马拉雅, bilibili, 腾讯, 字节跳动, 暴雪, 优酷, 爱奇艺, 芒果, 网易云注册过会员 ( doge )
 - 🤔 精通 JavaScript 和 Vue 及 React 的拼写 
 - 🌱 我正在学 ...
 - 💬 原神uid: 100220863
 
-<!--<img height=180px align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" title="Do what you like, and do it best!">-->
-<img height=180px align="right" alt="GIF" src="https://user-images.githubusercontent.com/110996333/188844519-d4b6cba9-9497-41e4-a182-388b5bb482b5.gif" width="300" title="Do what you like, and do it best!">
+<!-- <img height=180px align="right" alt="GIF" src="https://user-images.githubusercontent.com/110996333/188844519-d4b6cba9-9497-41e4-a182-388b5bb482b5.gif" width="300" title="Do what you like, and do it best!"> -->
 
 ### 我的技术栈 ✨
 <p>
